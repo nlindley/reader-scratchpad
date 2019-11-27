@@ -1,0 +1,16 @@
+{
+  "name": "reader-scratchpad",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nicholas Lindley <me@thisoneplace.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node -r esm ."
+  },
+  "dependencies": {
+    "crocks": "^0.12.4",
+    "esm": "^3.2.25",
+    "got": "^9.6.0",
+    "ramda": "^0.26.1"
+  }
+}
